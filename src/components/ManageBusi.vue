@@ -36,7 +36,7 @@
     font-size: 215px;
     position: absolute;
     top: 50%;
-    left: 53%;
+    left: 48%;
     margin-top: -150px;
   }
   .own-title{
